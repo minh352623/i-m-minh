@@ -1,0 +1,21 @@
+header{
+    width: 1000px;
+    height: 1000px;
+    font-family:Tahoma;
+    font-size:16px;
+    padding: 10px;
+    color:black;
+    padding-left:100px;
+
+}
+body{
+    background-color: greenyellow;
+}
+img{
+    width: 400px;
+    height: 600px;
+    float: left;
+    margin-top: 30px;
+    margin-left:50px;
+
+}
